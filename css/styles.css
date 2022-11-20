@@ -1,0 +1,159 @@
+body{
+    font-family:'Montserrat' ;
+}
+#title{
+    background-color: #ff4c68;
+    
+}
+
+/*heading-paragraph*/
+h3{
+    font-size: 1.5rem;
+    
+
+}
+h1{
+    font-family: 'Montserrat';
+    font-weight: bold;
+    color: white;
+    font-size: 3.1rem;
+    line-height: 1.5;
+    
+    
+}
+p{
+    color: #8f8f8f;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.h2{
+    font-size: 3rem;
+    line-height: 2;
+}
+
+/*Nav bar*/
+.navbar{
+    padding: 0 0 4.5rem;
+
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.3rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0px 18px ;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-weight: 20%;
+}
+
+/*Downloadbutton*/
+.Downloadbutton{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+/*Title-image*/
+.Title-image{
+    width: 60%;
+    transform: rotate(25deg);
+    margin-left: 50px;
+
+}
+
+/*features*/
+#features{
+    padding: 7% 15%;
+   text-align: center;
+    
+}
+
+ .features-box{
+    padding: 5%;
+ }
+
+ .icon{
+    color:#ef8172;
+    margin:1rem;
+ }
+ .icon:hover{
+    color:#ff4c68
+ }
+
+ /*testimonials*/
+ #testimonials{
+   
+    text-align: center;
+    background-color:#ef8172 ;
+    color: white;
+ }
+ .testimonial-image{
+    width:20%;
+    border-radius: 100%;
+    margin:20px
+ }
+ #press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+ }
+ .press-logo{
+    width:15%;
+    margin: 20px 20px 50px;
+ }
+ .carousel-item{
+    padding: 7% 15% ;
+ }
+
+ /*Pricing*/
+ #pricing{
+    text-align: center;
+    padding: 100px;
+
+ }
+
+ .pricing-column{
+    padding: 3% 2% ;
+ }
+
+ /*call to action*/
+ #cta{
+ background-color: #ff4c68;
+ text-align: center;
+ padding-top: 100px;
+ padding-bottom: 40px;
+ padding-left: 15%;
+ padding-right: 190px;
+ }
+
+ .call{
+    
+    
+    font-size: 3.5rem;
+    font-weight: bolder;
+    color: #fff;
+        
+    }
+
+/*footer*/
+#footer{
+    background-color: #fff;
+    text-align: center;
+    padding: 100px 15% 20%;
+}
+
+a{
+    color: #8f8f8f;
+    
+    
+}
+a:hover{
+    color: #ff4c68;
+}
+.copy{
+    margin-top: 5%;
+}
+
